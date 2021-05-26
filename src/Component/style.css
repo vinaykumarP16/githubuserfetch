@@ -1,0 +1,38 @@
+.searchbar{
+  background: #F6F115;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.searchbar input, .searchbar button{
+  padding: 10px;
+  font-size: 1.2em;
+  font-weight:700;
+  cursor: pointer;
+  border:none;
+}
+
+.searchbar button:hover{
+  background: #F4B530;
+  color:#fff;
+}
+
+
+
+
+.userdata{
+    border: 4px solid black; 
+    text-align: center;
+    font-weight: 700;
+}
+
+.userdata img{
+    width: 250px;
+    height: 250px;
+}
+
+.userdata {
+    color:green;
+    font-size: 1.5em;
+}
